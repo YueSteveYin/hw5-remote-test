@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Weather App",
+      "img": "https://picsum.photos/id/1003/800/450",
+      "desc": "A simple weather dashboard built using HTML, CSS, and JavaScript. Demonstrates API fetching and dynamic DOM updates.",
+      "link": "https://example.com/weather"
+    },
+    {
+      "id": 2,
+      "title": "Portfolio Website",
+      "img": "https://picsum.photos/id/1050/800/450",
+      "desc": "A personal portfolio built with modern layout techniques. Includes responsive design, multiple pages, and smooth navigation.",
+      "link": "https://example.com/portfolio"
+    },
+    {
+      "id": 3,
+      "title": "Calculator App",
+      "img": "https://picsum.photos/id/1012/800/450",
+      "desc": "A clean and functional calculator with support for basic arithmetic, keyboard input, and error handling.",
+      "link": "https://example.com/calculator"
+    }
+  ]
+}
